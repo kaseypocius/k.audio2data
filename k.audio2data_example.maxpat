@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 59.0, 119.0, 968.0, 821.0 ],
+		"rect" : [ 831.0, 453.0, 968.0, 821.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -45,8 +45,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 45.0, 115.0, 86.0, 22.0 ],
-					"text" : "k.audio2midi 5"
+					"patching_rect" : [ 45.0, 115.0, 111.0, 22.0 ],
+					"text" : "k.audio2data 5 127"
 				}
 
 			}
@@ -101,12 +101,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-30",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 39.0, 253.0, 50.0, 22.0 ],
-					"text" : "170."
+					"patching_rect" : [ 39.0, 253.0, 50.0, 35.0 ],
+					"text" : "939.974825"
 				}
 
 			}
@@ -284,7 +285,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 14.0, 165.0, 50.0, 22.0 ],
-					"text" : "21"
+					"text" : "125"
 				}
 
 			}
@@ -510,7 +511,7 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "k.audio2midi.maxpat",
+				"name" : "k.audio2data.maxpat",
 				"bootpath" : "~/Documents/GitHub/k.audio2midi",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
