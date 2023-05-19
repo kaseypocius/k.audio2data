@@ -70,7 +70,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 15.0, 156.0, 153.0, 20.0 ],
-					"text" : "filter out repeats"
+					"text" : "filter out repeats",
+					"textjustification" : 1
 				}
 
 			}
@@ -81,7 +82,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 15.0, 125.0, 150.0, 20.0 ],
-					"text" : "convert to int"
+					"text" : "convert to int",
+					"textjustification" : 1
 				}
 
 			}
@@ -92,7 +94,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 15.0, 95.0, 150.0, 20.0 ],
-					"text" : "scale to midi"
+					"text" : "scale",
+					"textjustification" : 1
 				}
 
 			}
@@ -103,7 +106,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 15.0, 58.0, 150.0, 20.0 ],
-					"text" : "capture audio at high rate"
+					"text" : "capture audio at high rate",
+					"textjustification" : 1
 				}
 
 			}
